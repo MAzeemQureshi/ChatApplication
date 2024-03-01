@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/teal_700" /> <!-- Set the desired background color for the message box -->
+    <corners android:radius="8dp" /> <!-- Adjust the radius as needed for rounded corners -->
+</shape>
